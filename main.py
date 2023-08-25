@@ -1,7 +1,3 @@
-from instrument import Instrument
-from musician import Musician
-
-
 #   main.py dient der Ausführung der Applikation.
 #   Es werden die benötigen Objekte erzeugt und die
 #   Methoden gemäss Vorgabe aufgerufen.
@@ -17,4 +13,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
