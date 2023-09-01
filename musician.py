@@ -6,11 +6,11 @@ class Musician:
     """
 
     def __init__(self, name, instrument):
-        '''
+        """
         Erzeugt ein Musiker-Objekt.
         :param name: Name des Musikers
         :param instrument: Referenz zum Instrument des Musikers
-        '''
+        """
         self._name       = name
         self._instrument = instrument
 
